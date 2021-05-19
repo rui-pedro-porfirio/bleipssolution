@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IPS Solution</string>
+    <string name="application_name">IPS</string>
+    <string name="proximity_button_text">DETECT PROXIMITY</string>
+    <string name="finding_beacon">Finding Beacon</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+    <string name="proximity_analysis">Proximity Analysis</string>
+    <string name="beacon_found_info">*Beacon found</string>
+    <string name="rssi_info">RSSI: %1d dBm</string>
+    <string name="distance">Loading</string>
+</resources>

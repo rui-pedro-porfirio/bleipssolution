@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="screenBackground">#2A219E</color>
+    <color name="buttonBackground">#BBDEFB</color>
+    <color name="intimateBackground">#c22929</color>
+    <color name="personalBackground">#c28f29</color>
+    <color name="socialBackground">#aec722</color>
+    <color name="publicBackground">#5fc722</color>
+</resources>
