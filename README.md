@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/34092072/118895618-632c8c80-b8fe-11eb-
 
 MIT License
 
-Copyright (c) 2020 Rui Pedro Porfírio
+Copyright (c) 2021 Rui Pedro Porfírio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
